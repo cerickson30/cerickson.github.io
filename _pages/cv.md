@@ -17,15 +17,12 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2018--present: Visiting Lecturer
+  * Hamline University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2014--Spring 2018: Assistant Professor
+  * Grand View University
+
   
 Skills
 ======
