@@ -11,9 +11,9 @@ title                    : "Dr. Craig Erickson"
 title_separator          : "-"
 name                     : &name "Dr. Craig Erickson"
 description              : &description "Visiting Lecturer at Hamline University"
-url                      : https://cerickson30.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cerickson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cerickson30/cerickson30.github.io"
+repository               : "cerickson30/cerickson.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
