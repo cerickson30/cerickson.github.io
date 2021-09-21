@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* Fall 2018--present: Visiting Lecturer
+* Fall 2018---present: Visiting Lecturer
   * Hamline University
 
-* Fall 2014--Spring 2018: Assistant Professor
+* Fall 2014---Spring 2018: Assistant Professor
   * Grand View University
 
   
