@@ -17,21 +17,32 @@ Education
 
 Work experience
 ======
-* Fall 2018---present: Visiting Lecturer
+* September 2018---present: Visiting Lecturer
   * Hamline University
 
-* Fall 2014---Spring 2018: Assistant Professor
+* August 2014---May 2018: Assistant Professor
   * Grand View University
+
+* Fall 2012, Spring 2014: Adjunct Instructor
+  * Drake University
+
+* Summer 2010: REU Graduate Student Mentor
+  * Iowa State University
+
+* August 2009---May 2014: Teaching Assistant
+  * Iowa State University
+* August 2007---May 2009: Teaching Assistant
+  * Minnesota State University--Mankato
 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * R
+  * SageMath
+  * MATLAB
+  * SQL
 
 Publications
 ======
@@ -51,6 +62,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Full CV
 ======
-* Currently signed in to 43 different slack teams
+[Full CV pdf](files/cericksonCV.pdf)
