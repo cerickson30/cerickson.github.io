@@ -64,4 +64,4 @@ Teaching
   
 Full CV
 ======
-[Full CV pdf](files/cericksonCV.pdf)
+[Full CV pdf](https://cerickson30.github.io/files/cericksonCV.pdf)
