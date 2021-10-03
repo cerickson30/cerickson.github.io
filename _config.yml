@@ -86,9 +86,9 @@ author:
   location         : "Saint Paul, MN"
   employer         : "Hamline University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=0XaMRnQAAAAJ"
+  googlescholar    : https://scholar.google.com/citations?user=0XaMRnQAAAAJ
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Craig-Erickson-4"
+  researchgate     : https://www.researchgate.net/profile/Craig-Erickson-4
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      :
   lastfm           :
   linkedin         : "craigjerickson/"
-  orcid            : "https://orcid.org/0000-0002-5878-507X"
+  orcid            : https://orcid.org/0000-0002-5878-507X
   pinterest        :
   soundcloud       :
   stackoverflow    :
