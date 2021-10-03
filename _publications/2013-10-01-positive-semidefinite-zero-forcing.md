@@ -2,14 +2,14 @@
 title: "Positive semidefinite zero forcing"
 collection: publications
 permalink: /publication/2013-10-01-positive-semidefinite-zero-forcing
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'We establish a variety of properties of positive semidefinite zero forcing: Any vertex of G can be in a minimum positive semidefinite zero forcing set (this is not true for standard zero forcing). Graphs having extreme values of the positive semidefinite zero forcing number are characterized. The effect of various graph operations on positive semidefinite zero forcing number and connections with other graph parameters are studied.'
 date: 2013-10-01
 venue: 'Linear Algebra Appl.'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Positive semidefinite zero forcing.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://doi.org/10.1016/j.laa.2013.05.020'
+citation: 'J. Ekstrand, C. Erickson, H.T. Hall, D. Hay, L. Hogben, R. Johnson, N. Kingsley, S. Osborne, T. Peters, J. Roat, A. Ross, D.D. Row, N. Warnberg, and M. Young. “Positive semidefinite zero forcing.” <i>Linear Algebra Appl.</i> <b>439</b> (2013), 1862–1874.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We establish a variety of properties of positive semidefinite zero forcing: Any vertex of G can be in a minimum positive semidefinite zero forcing set (this is not true for standard zero forcing). Graphs having extreme values of the positive semidefinite zero forcing number are characterized. The effect of various graph operations on positive semidefinite zero forcing number and connections with other graph parameters are studied.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.1016/j.laa.2013.05.020)
 
-Recommended citation: Your Name, You. (2009). "Positive semidefinite zero forcing." <i>Journal 1</i>. 1(1).
+Recommended citation: J. Ekstrand, C. Erickson, H.T. Hall, D. Hay, L. Hogben, R. Johnson, N. Kingsley, S. Osborne, T. Peters, J. Roat, A. Ross, D.D. Row, N. Warnberg, and M. Young. “Positive semidefinite zero forcing.” <i>Linear Algebra Appl.</i> <b>439</b> (2013), 1862–1874.

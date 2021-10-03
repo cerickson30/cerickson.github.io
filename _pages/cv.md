@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+[Full CV pdf](https://cerickson30.github.io/files/cericksonCV.pdf)
+
 Education
 ======
-* B.S. in Mathematics, Drake University, 2007
-* M.A. in Mathematics, Minnesota State University--Mankato, 2009
 * Ph.D. in Mathematics, Iowa State University, 2014
+* M.A. in Mathematics, Minnesota State University--Mankato, 2009
+* B.S. in Mathematics, Drake University, 2007
 
 Work experience
 ======
@@ -50,18 +52,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Full CV
-======
-[Full CV pdf](https://cerickson30.github.io/files/cericksonCV.pdf)

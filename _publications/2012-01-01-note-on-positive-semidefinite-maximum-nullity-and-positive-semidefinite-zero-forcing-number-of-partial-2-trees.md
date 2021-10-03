@@ -2,14 +2,14 @@
 title: "Note on positive semidefinite maximum nullity and positive semidefinite zero forcing number of partial 2-trees"
 collection: publications
 permalink: /publication/2012-01-01-note-on-positive-semidefinite-maximum-nullity-and-positive-semidefinite-zero-forcing-number-of-partial-2-trees
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'The definition of the positive semidefinite zero forcing number for simple graphs is extended to multigraphs; as for simple graphs, this parameter bounds the maximum positive semidefinite nullity from above.'
 date: 2012-01-01
 venue: 'Electron. J. Linear Algebra'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Note on positive semidefinite maximum nullity and positive semidefinite zero forcing number of partial 2-trees.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://doi.org/10.13001/1081-3810.1506'
+citation: 'J. Ekstrand, C. Erickson, D. Hay, L. Hogben, and J. Roat. &quot;Note on positive semidefinite maximum nullity and positive semidefinite zero forcing number of partial 2-trees.&quot; <i>Electron. J. Linear Algebra</i> <b>23</b> (2012), 79—87.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The definition of the positive semidefinite zero forcing number for simple graphs is extended to multigraphs; as for simple graphs, this parameter bounds the maximum positive semidefinite nullity from above.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.13001/1081-3810.1506)
 
-Recommended citation: Your Name, You. (2009). "Note on positive semidefinite maximum nullity and positive semidefinite zero forcing number of partial 2-trees." <i>Journal 1</i>. 1(1).
+Recommended citation: J. Ekstrand, C. Erickson, D. Hay, L. Hogben, and J. Roat. "Note on positive semidefinite maximum nullity and positive semidefinite zero forcing number of partial 2-trees." <i>Electron. J. Linear Algebra</i> <b>23</b> (2012), 79—87.

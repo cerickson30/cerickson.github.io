@@ -2,14 +2,14 @@
 title: "Properties of a <i>q</i>-analogue for zero forcing"
 collection: publications
 permalink: /publication/2020-07-13-properties-of-a-q-analogue-for-zero-forcing
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper investigates a <i>q</i>-analogue of zero forcing. Basic properties of this game are established including determining all graphs which have minimal cost 1 or 2 for all possible <i>q</i>, and finding the zero forcing number for all trees when <i>q</i>=1.'
 date: 2020-07-13
 venue: 'Graphs Combin.'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Properties of a <i>q</i>-analogue for zero forcing.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://arxiv.org/abs/1809.07640'
+citation: 'S. Butler, C. Erickson, S. Fallat, H.T. Hall, B. Kroschel, J.C.H. Lin, B. Shader, N. Warnberg, B. Yang. “Properties of a <i>q</i>-analogue for zero forcing.” <i>Graphs Combin.</i> <b>36</b> (2020), No. 5, 1401—1419.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper investigates a <i>q</i>-analogue of zero forcing. Basic properties of this game are established including determining all graphs which have minimal cost 1 or 2 for all possible <i>q</i>, and finding the zero forcing number for all trees when <i>q</i>=1.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/abs/1809.07640)
 
-Recommended citation: Your Name, You. (2009). "Properties of a <i>q</i>-analogue for zero forcing." <i>Journal 1</i>. 1(1).
+Recommended citation: S. Butler, C. Erickson, S. Fallat, H.T. Hall, B. Kroschel, J.C.H. Lin, B. Shader, N. Warnberg, B. Yang. “Properties of a <i>q</i>-analogue for zero forcing.” <i>Graphs Combin.</i> <b>36</b> (2020), No. 5, 1401—1419.
