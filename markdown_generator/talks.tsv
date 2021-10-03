@@ -1,5 +1,11 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Strongly Eventually Nonnegative Matrices	Talk	talk-1	Special Session on Matrices and Graphs, AMS Central Section Meeting	2010-04-11	Saint Paul, MN		
+Potentially eventually positive and potentially eventually exponentially positive sign patterns	Talk	talk-2	Young Researchers Minisymposium on Combinatorial Matrix Theory, 17th ILAS Conference	2011-08-23	Braunschweig, Germany		
+Positive semidefinite maximum nullity is equal to positive semidefinite zero forcing number for partial 2-trees	Talk	talk-3	Special Session on Matrices and Graphs, AMS Central Section Meeting	2011-10-14	Lincoln, NE		
+Sign Patterns That Allow Strong Eventual Nonnegativity	Talk	talk-4	Minisymposium on Matrices and Graphs, 2012 SIAM Annual Meeting	2012-07-12	Minneapolis, MN		
+Sign patterns that require eventual exponential nonnegativity	Talk	talk-5	Special Session on Generalizations of Nonnegative Matrices and Their Sign Patterns, AMS Central Section Meeting	2013-04-27	Ames, IA		
+Sign patterns that require eventual exponential nonnegativity	Talk	talk-6	Minisymposium on Sign Pattern Matrices, 18th ILAS Conference	2013-06-06	Providence, RI		
+Upper triangular sign patterns that require eventual exponential nonnegativity	Talk	talk-7	Minisymposium on Combinatorial Matrix Theory, 20th ILAS Conference	2016-07-15	Leuven, Belgium		
+Upper triangular sign patterns that require eventual exponential nonnegativity	Talk	talk-8	Special Session on Combinatorial Matrix Theory, AMS Central Section Meeting	2016-10-30	Minneapolis, MN		
+Zero forcing and other games on graphs	Talk	talk-9	Mathematics & Statistics Department Colloquium, Carleton College	2018-04-17	Northfield, MN		
+Restricted power domination	Talk	talk-10	Special Session on The Inverse Eigenvalue Problem of a Graph and Zero Forcing, 52nd Southeastern International Conference on Combinatorics, Graph Theory, and Computing	2021-03-09	Virtual		
