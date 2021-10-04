@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Numerical Analysis"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/MATH_351-class-10
 term: Spring
 number: MATH 351

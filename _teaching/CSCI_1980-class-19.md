@@ -1,7 +1,7 @@
 ---
 title: "Programming in MATLAB"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/CSCI_1980-class-19
 term: J-term
 number: CSCI 1980

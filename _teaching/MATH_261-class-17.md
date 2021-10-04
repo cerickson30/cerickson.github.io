@@ -1,7 +1,7 @@
 ---
 title: "Applied Statistics"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/MATH_261-class-17
 term: Spring
 number: MATH 261

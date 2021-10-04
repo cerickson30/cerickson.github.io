@@ -1,7 +1,7 @@
 ---
 title: "College Algebra"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/MATH_140-class-1
 term: Fall
 number: MATH 140

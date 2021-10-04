@@ -1,7 +1,7 @@
 ---
 title: "Elementary Differential Equations & Laplace Transforms"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/MATH_2667-class-5
 term: Summer
 number: MATH 266/7

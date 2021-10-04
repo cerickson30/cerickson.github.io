@@ -1,7 +1,7 @@
 ---
 title: "College Algebra"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/MATH_112-class-1
 term: Spring
 number: MATH 112

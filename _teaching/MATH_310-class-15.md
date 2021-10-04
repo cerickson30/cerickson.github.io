@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Mathematical Modeling"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/MATH_310-class-15
 term: Spring
 number: MATH 310

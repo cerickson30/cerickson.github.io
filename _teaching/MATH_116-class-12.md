@@ -1,7 +1,7 @@
 ---
 title: "Finite Mathematics"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/MATH_116-class-12
 term: Spring
 number: MATH 116

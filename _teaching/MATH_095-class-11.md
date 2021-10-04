@@ -1,7 +1,7 @@
 ---
 title: "Intermediate Algebra"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/MATH_095-class-11
 term: Fall
 number: MATH 095

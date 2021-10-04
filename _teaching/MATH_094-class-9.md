@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Algebra"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/MATH_094-class-9
 term: Fall
 number: MATH 094

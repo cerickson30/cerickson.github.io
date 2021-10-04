@@ -1,7 +1,7 @@
 ---
 title: "Topics in Advanced Mathematics"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/MATH_5950-class-21
 term: Spring
 number: MATH 5950

@@ -1,7 +1,7 @@
 ---
 title: "High School Algebra"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/MATH_10-class-2
 term: Summer
 number: MATH 10

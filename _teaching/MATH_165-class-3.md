@@ -1,7 +1,7 @@
 ---
 title: "Calculus I"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/MATH_165-class-3
 term: Spring
 number: MATH 165

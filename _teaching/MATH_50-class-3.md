@@ -1,7 +1,7 @@
 ---
 title: "Calculus I"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/MATH_50-class-3
 term: Fall
 number: MATH 50

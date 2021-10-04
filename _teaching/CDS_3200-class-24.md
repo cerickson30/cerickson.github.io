@@ -1,7 +1,7 @@
 ---
 title: "Elements of Statistical Learning"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/CDS_3200-class-24
 term: Spring
 number: CDS 3200

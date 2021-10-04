@@ -1,7 +1,7 @@
 ---
 title: "Discrete Mathematics"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/MATH_3440-class-25
 term: Spring
 number: MATH 3440

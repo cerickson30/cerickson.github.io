@@ -1,7 +1,7 @@
 ---
 title: "Senior Seminar"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/MATH_450-class-16
 term: Fall
 number: MATH 450

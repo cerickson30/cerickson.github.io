@@ -1,7 +1,7 @@
 ---
 title: "Calculus II"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/MATH_70-class-4
 term: Spring
 number: MATH 70

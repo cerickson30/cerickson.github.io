@@ -1,7 +1,7 @@
 ---
 title: "First Year Seminar: Uses and Misuses of Algorithms"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/FSEM_1010-class-23
 term: Fall
 number: FSEM 1010

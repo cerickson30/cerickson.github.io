@@ -1,7 +1,7 @@
 ---
 title: "Introductory & Intermediate Algebra"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/MATH_096-class-6
 term: Spring
 number: MATH 096

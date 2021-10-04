@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Mathematical Reasoning"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/MATH_300-class-13
 term: Fall
 number: MATH 300

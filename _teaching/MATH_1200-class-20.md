@@ -1,7 +1,7 @@
 ---
 title: "Statistics"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/MATH_1200-class-20
 term: Fall
 number: MATH 1200

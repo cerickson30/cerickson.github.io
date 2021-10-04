@@ -1,7 +1,7 @@
 ---
 title: "Multivariable and Vector Calculus"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/MATH_3320-class-18
 term: Fall
 number: MATH 3320

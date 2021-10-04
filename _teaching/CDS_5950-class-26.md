@@ -1,7 +1,7 @@
 ---
 title: "Computational Data Science Capstone"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/CDS_5950-class-26
 term: Summer
 number: CDS 5950

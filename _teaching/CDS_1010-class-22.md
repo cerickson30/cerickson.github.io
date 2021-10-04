@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Programming"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/CDS_1010-class-22
 term: Fall
 number: CDS 1010

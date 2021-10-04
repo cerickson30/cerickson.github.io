@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Computer Science"
 collection: teaching
-type: "Teaching"
+type: "teaching"
 permalink: /teaching/CSCI_1250-class-22
 term: Fall
 number: CSCI 1250
