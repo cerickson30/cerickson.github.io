@@ -1,13 +1,11 @@
- ---
+---
 layout: archive
 title: "Teaching"
-permalink: /courses_page/
+permalink: /teaching/
 author_profile: true
-redirect_from:
-  - /teaching_page
 ---
- 
- | term |year |number |title |venue |
+
+
  |--- | --- | --- | --- | --- | 
  | Fall | 2021 | CDS 1010 | Introduction to Programming | Hamline University | 
  | Fall | 2021 | FSEM 1010 | First Year Seminar: Uses and Misuses of Algorithms | Hamline University | 
