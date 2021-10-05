@@ -2,7 +2,7 @@
 title: "Introduction to Mathematical Reasoning"
 collection: teaching
 type: "teaching"
-permalink: /teaching/MATH_300-class-13
+permalink: /courses/MATH_300-class-13
 number: MATH 300
 url_slug: class-13
 venue: "Grand View University"

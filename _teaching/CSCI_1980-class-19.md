@@ -2,7 +2,7 @@
 title: "Programming in MATLAB"
 collection: teaching
 type: "teaching"
-permalink: /teaching/CSCI_1980-class-19
+permalink: /courses/CSCI_1980-class-19
 number: CSCI 1980
 url_slug: class-19
 venue: "Hamline University"

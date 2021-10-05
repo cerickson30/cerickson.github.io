@@ -2,7 +2,7 @@
 title: "Introductory & Intermediate Algebra"
 collection: teaching
 type: "teaching"
-permalink: /teaching/MATH_096-class-6
+permalink: /courses/MATH_096-class-6
 number: MATH 096
 url_slug: class-6
 venue: "Grand View University"

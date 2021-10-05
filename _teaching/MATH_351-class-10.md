@@ -2,7 +2,7 @@
 title: "Introduction to Numerical Analysis"
 collection: teaching
 type: "teaching"
-permalink: /teaching/MATH_351-class-10
+permalink: /courses/MATH_351-class-10
 number: MATH 351
 url_slug: class-10
 venue: "Grand View University"

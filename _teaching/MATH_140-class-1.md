@@ -2,7 +2,7 @@
 title: "College Algebra"
 collection: teaching
 type: "teaching"
-permalink: /teaching/MATH_140-class-1
+permalink: /courses/MATH_140-class-1
 number: MATH 140
 url_slug: class-1
 venue: "Iowa State University"

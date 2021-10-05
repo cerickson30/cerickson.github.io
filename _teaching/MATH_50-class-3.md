@@ -2,7 +2,7 @@
 title: "Calculus I"
 collection: teaching
 type: "teaching"
-permalink: /teaching/MATH_50-class-3
+permalink: /courses/MATH_50-class-3
 number: MATH 50
 url_slug: class-3
 venue: "Drake Univeresity"

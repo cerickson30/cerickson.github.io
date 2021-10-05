@@ -2,7 +2,7 @@
 title: "First Year Seminar: Uses and Misuses of Algorithms"
 collection: teaching
 type: "teaching"
-permalink: /teaching/FSEM_1010-class-23
+permalink: /courses/FSEM_1010-class-23
 number: FSEM 1010
 url_slug: class-23
 venue: "Hamline University"

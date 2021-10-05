@@ -2,7 +2,7 @@
 title: "Introduction to Algebra"
 collection: teaching
 type: "teaching"
-permalink: /teaching/MATH_094-class-9
+permalink: /courses/MATH_094-class-9
 number: MATH 094
 url_slug: class-9
 venue: "Grand View University"

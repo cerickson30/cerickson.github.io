@@ -2,7 +2,7 @@
 title: "Statistics"
 collection: teaching
 type: "teaching"
-permalink: /teaching/MATH_1200-class-20
+permalink: /courses/MATH_1200-class-20
 number: MATH 1200
 url_slug: class-20
 venue: "Hamline University"

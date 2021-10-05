@@ -2,7 +2,7 @@
 title: "Finite Mathematics"
 collection: teaching
 type: "teaching"
-permalink: /teaching/MATH_116-class-12
+permalink: /courses/MATH_116-class-12
 number: MATH 116
 url_slug: class-12
 venue: "Grand View University"

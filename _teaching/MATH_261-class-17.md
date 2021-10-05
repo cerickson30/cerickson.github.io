@@ -2,7 +2,7 @@
 title: "Applied Statistics"
 collection: teaching
 type: "teaching"
-permalink: /teaching/MATH_261-class-17
+permalink: /courses/MATH_261-class-17
 number: MATH 261
 url_slug: class-17
 venue: "Grand View University"

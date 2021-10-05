@@ -2,7 +2,7 @@
 title: "Elements of Statistical Learning"
 collection: teaching
 type: "teaching"
-permalink: /teaching/CDS_3200-class-24
+permalink: /courses/CDS_3200-class-24
 number: CDS 3200
 url_slug: class-24
 venue: "Hamline University"

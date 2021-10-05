@@ -2,7 +2,7 @@
 title: "Computational Data Science Capstone"
 collection: teaching
 type: "teaching"
-permalink: /teaching/CDS_5950-class-26
+permalink: /courses/CDS_5950-class-26
 number: CDS 5950
 url_slug: class-26
 venue: "Hamline University"

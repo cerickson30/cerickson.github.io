@@ -2,7 +2,7 @@
 title: "Intermediate Algebra"
 collection: teaching
 type: "teaching"
-permalink: /teaching/MATH_095-class-11
+permalink: /courses/MATH_095-class-11
 number: MATH 095
 url_slug: class-11
 venue: "Grand View University"

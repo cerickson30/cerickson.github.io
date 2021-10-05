@@ -2,7 +2,7 @@
 title: "Introduction to Mathematical Modeling"
 collection: teaching
 type: "teaching"
-permalink: /teaching/MATH_310-class-15
+permalink: /courses/MATH_310-class-15
 number: MATH 310
 url_slug: class-15
 venue: "Grand View University"

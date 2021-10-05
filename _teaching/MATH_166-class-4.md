@@ -2,7 +2,7 @@
 title: "Calculus II"
 collection: teaching
 type: "teaching"
-permalink: /teaching/MATH_166-class-4
+permalink: /courses/MATH_166-class-4
 number: MATH 166
 url_slug: class-4
 venue: "Iowa State University"

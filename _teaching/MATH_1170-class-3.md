@@ -2,7 +2,7 @@
 title: "Calculus I"
 collection: teaching
 type: "teaching"
-permalink: /teaching/MATH_1170-class-3
+permalink: /courses/MATH_1170-class-3
 number: MATH 1170
 url_slug: class-3
 venue: "Hamline University"

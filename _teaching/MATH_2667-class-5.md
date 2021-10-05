@@ -2,7 +2,7 @@
 title: "Elementary Differential Equations & Laplace Transforms"
 collection: teaching
 type: "teaching"
-permalink: /teaching/MATH_2667-class-5
+permalink: /courses/MATH_2667-class-5
 number: MATH 266/7
 url_slug: class-5
 venue: "Iowa State University"

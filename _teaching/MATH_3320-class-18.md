@@ -2,7 +2,7 @@
 title: "Multivariable and Vector Calculus"
 collection: teaching
 type: "teaching"
-permalink: /teaching/MATH_3320-class-18
+permalink: /courses/MATH_3320-class-18
 number: MATH 3320
 url_slug: class-18
 venue: "Hamline University"
