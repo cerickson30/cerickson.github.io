@@ -3,7 +3,6 @@ title: "College Algebra"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2007-04-Fall-class-1
-date: 2007-04-Fall
 number: MATH 112
 url_slug: class-1
 venue: "Minnesota State University"

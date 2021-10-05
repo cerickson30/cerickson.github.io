@@ -3,7 +3,6 @@ title: "Computational Data Science Capstone"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2021-03-Summer-class-26
-date: 2021-03-Summer
 number: CDS 5950
 url_slug: class-26
 venue: "Hamline University"

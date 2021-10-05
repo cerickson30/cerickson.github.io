@@ -3,7 +3,6 @@ title: "Finite Mathematics"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2016-04-Fall-class-12
-date: 2016-04-Fall
 number: MATH 116
 url_slug: class-12
 venue: "Grand View University"

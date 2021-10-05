@@ -3,7 +3,6 @@ title: "Topics in Advanced Mathematics"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2019-02-Spring-class-21
-date: 2019-02-Spring
 number: MATH 5950
 url_slug: class-21
 venue: "Hamline University"

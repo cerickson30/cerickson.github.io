@@ -3,7 +3,6 @@ title: "Introduction to Computer Science"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2019-04-Fall-class-22
-date: 2019-04-Fall
 number: CSCI 1250
 url_slug: class-22
 venue: "Hamline University"

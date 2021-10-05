@@ -3,7 +3,6 @@ title: "Introduction to Algebra"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2017-04-Fall-class-9
-date: 2017-04-Fall
 number: MATH 094
 url_slug: class-9
 venue: "Grand View University"

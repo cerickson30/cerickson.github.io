@@ -3,7 +3,6 @@ title: "First Year Seminar: Uses and Misuses of Algorithms"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2021-04-Fall-class-23
-date: 2021-04-Fall
 number: FSEM 1010
 url_slug: class-23
 venue: "Hamline University"

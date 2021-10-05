@@ -3,7 +3,6 @@ title: "Calculus I"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2019-02-Spring-class-3
-date: 2019-02-Spring
 number: MATH 1170
 url_slug: class-3
 venue: "Hamline University"

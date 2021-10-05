@@ -3,7 +3,6 @@ title: "Introduction to Programming"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2020-04-Fall-class-22
-date: 2020-04-Fall
 number: CDS 1010
 url_slug: class-22
 venue: "Hamline University"

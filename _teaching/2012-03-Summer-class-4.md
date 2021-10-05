@@ -3,7 +3,6 @@ title: "Calculus II"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2012-03-Summer-class-4
-date: 2012-03-Summer
 number: MATH 166
 url_slug: class-4
 venue: "Iowa State University"

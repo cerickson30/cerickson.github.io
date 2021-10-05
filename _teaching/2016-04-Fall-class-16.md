@@ -3,7 +3,6 @@ title: "Senior Seminar"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2016-04-Fall-class-16
-date: 2016-04-Fall
 number: MATH 450
 url_slug: class-16
 venue: "Grand View University"

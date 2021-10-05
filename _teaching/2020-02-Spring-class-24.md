@@ -3,7 +3,6 @@ title: "Elements of Statistical Learning"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2020-02-Spring-class-24
-date: 2020-02-Spring
 number: CDS 3200
 url_slug: class-24
 venue: "Hamline University"

@@ -3,7 +3,6 @@ title: "Multivariable and Vector Calculus"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2018-04-Fall-class-18
-date: 2018-04-Fall
 number: MATH 3320
 url_slug: class-18
 venue: "Hamline University"

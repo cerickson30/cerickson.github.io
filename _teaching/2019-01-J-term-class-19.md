@@ -3,7 +3,6 @@ title: "Programming in MATLAB"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2019-01-J-term-class-19
-date: 2019-01-J-term
 number: CSCI 1980
 url_slug: class-19
 venue: "Hamline University"

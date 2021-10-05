@@ -3,7 +3,6 @@ title: "Elementary Differential Equations & Laplace Transforms"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2013-03-Summer-class-5
-date: 2013-03-Summer
 number: MATH 266/7
 url_slug: class-5
 venue: "Iowa State University"

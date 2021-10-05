@@ -3,7 +3,6 @@ title: "Introduction to Mathematical Reasoning"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2015-04-Fall-class-13
-date: 2015-04-Fall
 number: MATH 300
 url_slug: class-13
 venue: "Grand View University"

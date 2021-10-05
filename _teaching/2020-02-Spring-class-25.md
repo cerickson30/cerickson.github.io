@@ -3,7 +3,6 @@ title: "Discrete Mathematics"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2020-02-Spring-class-25
-date: 2020-02-Spring
 number: MATH 3440
 url_slug: class-25
 venue: "Hamline University"

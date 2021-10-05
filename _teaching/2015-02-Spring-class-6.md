@@ -3,7 +3,6 @@ title: "Introductory & Intermediate Algebra"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2015-02-Spring-class-6
-date: 2015-02-Spring
 number: MATH 096
 url_slug: class-6
 venue: "Grand View University"

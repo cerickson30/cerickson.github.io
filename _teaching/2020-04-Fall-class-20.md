@@ -3,7 +3,6 @@ title: "Statistics"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2020-04-Fall-class-20
-date: 2020-04-Fall
 number: MATH 1200
 url_slug: class-20
 venue: "Hamline University"

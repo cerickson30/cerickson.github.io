@@ -3,7 +3,6 @@ title: "Intermediate Algebra"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2015-04-Fall-class-11
-date: 2015-04-Fall
 number: MATH 095
 url_slug: class-11
 venue: "Grand View University"

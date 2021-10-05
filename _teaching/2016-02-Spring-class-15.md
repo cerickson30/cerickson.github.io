@@ -3,7 +3,6 @@ title: "Introduction to Mathematical Modeling"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2016-02-Spring-class-15
-date: 2016-02-Spring
 number: MATH 310
 url_slug: class-15
 venue: "Grand View University"

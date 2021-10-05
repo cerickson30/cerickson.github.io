@@ -3,7 +3,6 @@ title: "Introduction to Numerical Analysis"
 collection: teaching
 type: "teaching"
 permalink: /teaching/2015-02-Spring-class-10
-date: 2015-02-Spring
 number: MATH 351
 url_slug: class-10
 venue: "Grand View University"
