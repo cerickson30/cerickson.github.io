@@ -1,4 +1,11 @@
-<br>
+---
+layout: archive
+title: "Teaching"
+permalink: /courses/
+author_profile: true
+redirect_from:
+  - /teaching
+---<br>
 
 
  |--- | --- | --- | --- | --- | 
