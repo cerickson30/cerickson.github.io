@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Teaching
-======
   <ul>{% for post in site.teaching reverse%}
-    {% include archive-single-talk.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
