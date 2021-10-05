@@ -13,28 +13,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Mathematics, Iowa State University, 2014
-* M.A. in Mathematics, Minnesota State University--Mankato, 2009
-* B.S. in Mathematics, Drake University, 2007
+* Ph.D. in Mathematics, [Iowa State University](https://www.iastate.edu), 2014
+* M.A. in Mathematics, [Minnesota State University--Mankato](https://www.mnsu.edu), 2009
+* B.S. in Mathematics, [Drake University](https://www.drake.edu), 2007
 
 Work experience
 ======
 * September 2018---present: Visiting Lecturer
-  * Hamline University
+  * [Hamline University](https://www.hamline.edu)
 
 * August 2014---May 2018: Assistant Professor
-  * Grand View University
+  * [Grand View University](https://www.grandview.edu)
 
 * Fall 2012, Spring 2014: Adjunct Instructor
-  * Drake University
+  * [Drake University](https://www.drake.edu)
 
 * Summer 2010: REU Graduate Student Mentor
-  * Iowa State University
+  * [Iowa State University](https://www.iastate.edu)
 
 * August 2009---May 2014: Teaching Assistant
-  * Iowa State University
+  * [Iowa State University](https://www.iastate.edu)
 * August 2007---May 2009: Teaching Assistant
-  * Minnesota State University--Mankato
+  * [Minnesota State University--Mankato](https://www.mnsu.edu)
 
   
 Skills
