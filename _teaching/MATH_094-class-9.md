@@ -3,8 +3,9 @@ title: "Introduction to Algebra"
 collection: teaching
 type: "teaching"
 permalink: /courses/MATH_094-class-9
-number: MATH 094
 url_slug: class-9
+term: Fall2017
+number: MATH 094
 venue: "Grand View University"
 location: "Des Moines, IA"
 ---

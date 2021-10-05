@@ -3,8 +3,9 @@ title: "Calculus II"
 collection: teaching
 type: "teaching"
 permalink: /courses/MATH_166-class-4
-number: MATH 166
 url_slug: class-4
+term: Spring2013
+number: MATH 166
 venue: "Iowa State University"
 location: "Ames, IA"
 ---

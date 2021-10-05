@@ -3,8 +3,9 @@ title: "Multivariable and Vector Calculus"
 collection: teaching
 type: "teaching"
 permalink: /courses/MATH_3320-class-18
-number: MATH 3320
 url_slug: class-18
+term: Fall2018
+number: MATH 3320
 venue: "Hamline University"
 location: "Saint Paul, MN"
 ---

@@ -3,8 +3,9 @@ title: "Statistics"
 collection: teaching
 type: "teaching"
 permalink: /courses/MATH_1200-class-20
-number: MATH 1200
 url_slug: class-20
+term: Fall2021
+number: MATH 1200
 venue: "Hamline University"
 location: "Saint Paul, MN"
 ---

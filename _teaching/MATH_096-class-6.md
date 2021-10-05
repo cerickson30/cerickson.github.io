@@ -3,8 +3,9 @@ title: "Introductory & Intermediate Algebra"
 collection: teaching
 type: "teaching"
 permalink: /courses/MATH_096-class-6
-number: MATH 096
 url_slug: class-6
+term: Spring2015
+number: MATH 096
 venue: "Grand View University"
 location: "Des Moines, IA"
 ---

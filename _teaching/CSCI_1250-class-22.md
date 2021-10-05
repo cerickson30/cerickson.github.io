@@ -3,8 +3,9 @@ title: "Introduction to Computer Science"
 collection: teaching
 type: "teaching"
 permalink: /courses/CSCI_1250-class-22
-number: CSCI 1250
 url_slug: class-22
+term: Fall2019
+number: CSCI 1250
 venue: "Hamline University"
 location: "Saint Paul, MN"
 ---

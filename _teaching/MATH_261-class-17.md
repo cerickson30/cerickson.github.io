@@ -3,8 +3,9 @@ title: "Applied Statistics"
 collection: teaching
 type: "teaching"
 permalink: /courses/MATH_261-class-17
-number: MATH 261
 url_slug: class-17
+term: Spring2017
+number: MATH 261
 venue: "Grand View University"
 location: "Des Moines, IA"
 ---

@@ -3,8 +3,9 @@ title: "Introduction to Numerical Analysis"
 collection: teaching
 type: "teaching"
 permalink: /courses/MATH_351-class-10
-number: MATH 351
 url_slug: class-10
+term: Spring2015
+number: MATH 351
 venue: "Grand View University"
 location: "Des Moines, IA"
 ---

@@ -3,8 +3,9 @@ title: "Introduction to Mathematical Modeling"
 collection: teaching
 type: "teaching"
 permalink: /courses/MATH_310-class-15
-number: MATH 310
 url_slug: class-15
+term: Spring2018
+number: MATH 310
 venue: "Grand View University"
 location: "Des Moines, IA"
 ---

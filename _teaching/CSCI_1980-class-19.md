@@ -3,8 +3,9 @@ title: "Programming in MATLAB"
 collection: teaching
 type: "teaching"
 permalink: /courses/CSCI_1980-class-19
-number: CSCI 1980
 url_slug: class-19
+term: J-term2019
+number: CSCI 1980
 venue: "Hamline University"
 location: "Saint Paul, MN"
 ---

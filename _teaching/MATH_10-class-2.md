@@ -3,8 +3,9 @@ title: "High School Algebra"
 collection: teaching
 type: "teaching"
 permalink: /courses/MATH_10-class-2
-number: MATH 10
 url_slug: class-2
+term: Summer2011
+number: MATH 10
 venue: "Iowa State University"
 location: "Ames, IA"
 ---

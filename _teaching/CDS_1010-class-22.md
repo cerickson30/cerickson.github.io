@@ -3,8 +3,9 @@ title: "Introduction to Programming"
 collection: teaching
 type: "teaching"
 permalink: /courses/CDS_1010-class-22
-number: CDS 1010
 url_slug: class-22
+term: Fall2021
+number: CDS 1010
 venue: "Hamline University"
 location: "Saint Paul, MN"
 ---

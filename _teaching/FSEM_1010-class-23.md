@@ -3,8 +3,9 @@ title: "First Year Seminar: Uses and Misuses of Algorithms"
 collection: teaching
 type: "teaching"
 permalink: /courses/FSEM_1010-class-23
-number: FSEM 1010
 url_slug: class-23
+term: Fall2021
+number: FSEM 1010
 venue: "Hamline University"
 location: "Saint Paul, MN"
 ---

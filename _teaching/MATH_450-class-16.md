@@ -3,8 +3,9 @@ title: "Senior Seminar"
 collection: teaching
 type: "teaching"
 permalink: /courses/MATH_450-class-16
-number: MATH 450
 url_slug: class-16
+term: Fall2017
+number: MATH 450
 venue: "Grand View University"
 location: "Des Moines, IA"
 ---

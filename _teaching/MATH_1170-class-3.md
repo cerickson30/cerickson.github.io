@@ -3,8 +3,9 @@ title: "Calculus I"
 collection: teaching
 type: "teaching"
 permalink: /courses/MATH_1170-class-3
-number: MATH 1170
 url_slug: class-3
+term: Spring2019
+number: MATH 1170
 venue: "Hamline University"
 location: "Saint Paul, MN"
 ---
