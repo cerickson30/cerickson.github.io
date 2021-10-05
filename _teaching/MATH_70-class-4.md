@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /courses/MATH_70-class-4
 url_slug: class-4
-term: Spring2014
+term: Spring 2014
 number: MATH 70
 venue: "Drake Univeresity"
 location: "Des Moines, IA"

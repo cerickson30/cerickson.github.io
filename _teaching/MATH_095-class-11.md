@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /courses/MATH_095-class-11
 url_slug: class-11
-term: Fall2015
+term: Fall 2015
 number: MATH 095
 venue: "Grand View University"
 location: "Des Moines, IA"

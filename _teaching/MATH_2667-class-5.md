@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /courses/MATH_2667-class-5
 url_slug: class-5
-term: Summer2013
+term: Summer 2013
 number: MATH 266/7
 venue: "Iowa State University"
 location: "Ames, IA"

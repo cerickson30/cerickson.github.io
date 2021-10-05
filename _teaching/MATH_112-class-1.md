@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /courses/MATH_112-class-1
 url_slug: class-1
-term: Spring2009
+term: Spring 2009
 number: MATH 112
 venue: "Minnesota State University"
 location: "Mankato, MN"

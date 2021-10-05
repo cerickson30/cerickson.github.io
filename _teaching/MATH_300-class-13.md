@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /courses/MATH_300-class-13
 url_slug: class-13
-term: Fall2015
+term: Fall 2015
 number: MATH 300
 venue: "Grand View University"
 location: "Des Moines, IA"

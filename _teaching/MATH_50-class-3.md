@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /courses/MATH_50-class-3
 url_slug: class-3
-term: Fall2012
+term: Fall 2012
 number: MATH 50
 venue: "Drake Univeresity"
 location: "Des Moines, IA"

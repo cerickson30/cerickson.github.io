@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /courses/MATH_351-class-10
 url_slug: class-10
-term: Spring2015
+term: Spring 2015
 number: MATH 351
 venue: "Grand View University"
 location: "Des Moines, IA"

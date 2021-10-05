@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /courses/MATH_3440-class-25
 url_slug: class-25
-term: Spring2020
+term: Spring 2020
 number: MATH 3440
 venue: "Hamline University"
 location: "Saint Paul, MN"

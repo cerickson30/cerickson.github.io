@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /courses/MATH_5950-class-21
 url_slug: class-21
-term: Spring2019
+term: Spring 2019
 number: MATH 5950
 venue: "Hamline University"
 location: "Saint Paul, MN"

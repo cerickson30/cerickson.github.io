@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /courses/FSEM_1010-class-23
 url_slug: class-23
-term: Fall2021
+term: Fall 2021
 number: FSEM 1010
 venue: "Hamline University"
 location: "Saint Paul, MN"

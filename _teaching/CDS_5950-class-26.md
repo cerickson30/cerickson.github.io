@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /courses/CDS_5950-class-26
 url_slug: class-26
-term: Summer2021
+term: Summer 2021
 number: CDS 5950
 venue: "Hamline University"
 location: "Saint Paul, MN"
