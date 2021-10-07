@@ -1,8 +1,23 @@
 var addressPoints = [
   [
+    "Mankato, MN",
+    44.1634663,
+    -93.9993505
+  ],
+  [
+    "Ames, IA",
+    42.0267567,
+    -93.6170448
+  ],
+  [
     "Northfield, MN",
     44.4582041,
     -93.161159
+  ],
+  [
+    "Waverly, IA",
+    42.7258142,
+    -92.4754626
   ],
   [
     "Braunschweig, Germany",
@@ -10,9 +25,19 @@ var addressPoints = [
     10.5236066
   ],
   [
+    "Banff, Canada",
+    51.1777781,
+    -115.5682504
+  ],
+  [
     "Minneapolis, MN",
     44.9772995,
     -93.2654692
+  ],
+  [
+    "St. Paul, MN",
+    44.9497487,
+    -93.0931028
   ],
   [
     "Boca Raton, FL",
@@ -28,11 +53,6 @@ var addressPoints = [
     "Saint Paul, MN",
     44.9497487,
     -93.0931028
-  ],
-  [
-    "Ames, IA",
-    42.0267567,
-    -93.6170448
   ],
   [
     "Providence, RI",
