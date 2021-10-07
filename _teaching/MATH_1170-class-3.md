@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /courses/MATH_1170-class-3
 url_slug: class-3
-term: Spring 2019
+term: Fall 2018, Fall 2018, Spring 2019, Spring 2019
 number: MATH 1170
 venue: "Hamline University"
 location: "Saint Paul, MN"

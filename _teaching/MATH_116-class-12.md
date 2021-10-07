@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /courses/MATH_116-class-12
 url_slug: class-12
-term: Spring 2018
+term: Fall 2015, Fall 2015, Spring 2016, Spring 2016, Summer 2016, Fall 2016, Fall 2016, Spring 2017, Spring 2017, Spring 2018, Spring 2018, Spring 2018
 number: MATH 116
 venue: "Grand View University"
 location: "Des Moines, IA"

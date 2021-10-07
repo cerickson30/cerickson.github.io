@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /courses/MATH_096-class-6
 url_slug: class-6
-term: Spring 2015
+term: Fall 2014, Spring 2015
 number: MATH 096
 venue: "Grand View University"
 location: "Des Moines, IA"

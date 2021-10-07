@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /courses/MATH_094-class-9
 url_slug: class-9
-term: Fall 2017
+term: Spring 2015, Summer 2015, Summer 2015, Summer 2016, Fall 2017, Fall 2017, Fall 2017
 number: MATH 094
 venue: "Grand View University"
 location: "Des Moines, IA"

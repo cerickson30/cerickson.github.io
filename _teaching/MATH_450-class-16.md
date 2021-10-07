@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /courses/MATH_450-class-16
 url_slug: class-16
-term: Fall 2017
+term: Fall 2016, Fall 2017
 number: MATH 450
 venue: "Grand View University"
 location: "Des Moines, IA"

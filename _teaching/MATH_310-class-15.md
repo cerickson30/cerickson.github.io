@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /courses/MATH_310-class-15
 url_slug: class-15
-term: Spring 2018
+term: Spring 2016, Spring 2017, Spring 2018
 number: MATH 310
 venue: "Grand View University"
 location: "Des Moines, IA"

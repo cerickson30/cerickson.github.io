@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /courses/MATH_166-class-4
 url_slug: class-4
-term: Spring 2013
+term: Summer 2012, Spring 2013
 number: MATH 166
 venue: "Iowa State University"
 location: "Ames, IA"

@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /courses/MATH_140-class-1
 url_slug: class-1
-term: Fall 2009
+term: Fall 2009, Fall 2014
 number: MATH 140
 venue: "Iowa State University"
 location: "Ames, IA"

@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /courses/CDS_1010-class-22
 url_slug: class-22
-term: Fall 2021
+term: Spring 2020, Fall 2020, Fall 2020, Spring 2021, Fall 2021
 number: CDS 1010
 venue: "Hamline University"
 location: "Saint Paul, MN"
