@@ -12,6 +12,10 @@ redirect_from:
 
 
  |--- | --- | --- | --- | 
+ | Spring 2022 | [CDS 1020](https://cerickson30.github.io/courses/CDS_1020-class-27) | [Introduction to Computational Data Science](https://cerickson30.github.io/courses/CDS_1020-class-27) | [Hamline University](https://www.hamline.edu){:target="_blank"} | 
+ | Spring 2022 | [CDS 3200](https://cerickson30.github.io/courses/CDS_3200-class-24) | [Elements of Statistical Learning](https://cerickson30.github.io/courses/CDS_3200-class-24) | [Hamline University](https://www.hamline.edu){:target="_blank"} | 
+ | Spring 2022 | [CDS 5950](https://cerickson30.github.io/courses/CDS_5950-class-26) | [Computational Data Science Capstone](https://cerickson30.github.io/courses/CDS_5950-class-26) | [Hamline University](https://www.hamline.edu){:target="_blank"} | 
+ | Winter 2022 | [MATH 1200](https://cerickson30.github.io/courses/MATH_1200-class-20) | [Statistics](https://cerickson30.github.io/courses/MATH_1200-class-20) | [Hamline University](https://www.hamline.edu){:target="_blank"} | 
  | Fall 2021 | [CDS 1010](https://cerickson30.github.io/courses/CDS_1010-class-22) | [Introduction to Programming](https://cerickson30.github.io/courses/CDS_1010-class-22) | [Hamline University](https://www.hamline.edu){:target="_blank"} | 
  | Fall 2021 | [FSEM 1010](https://cerickson30.github.io/courses/FSEM_1010-class-23) | [First Year Seminar: Uses and Misuses of Algorithms](https://cerickson30.github.io/courses/FSEM_1010-class-23) | [Hamline University](https://www.hamline.edu){:target="_blank"} | 
  | Fall 2021 | [MATH 1200](https://cerickson30.github.io/courses/MATH_1200-class-20) | [Statistics](https://cerickson30.github.io/courses/MATH_1200-class-20) | [Hamline University](https://www.hamline.edu){:target="_blank"} | 
