@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV pdf](https://cerickson30.github.io/files/cericksonCV.pdf)
+[Full CV pdf](https://cerickson30.github.io/files/cericksonCV.pdf){:target="_blank"}
 
 Education
 ======

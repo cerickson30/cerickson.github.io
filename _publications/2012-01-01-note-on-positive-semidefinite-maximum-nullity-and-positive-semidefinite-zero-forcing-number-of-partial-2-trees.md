@@ -10,6 +10,6 @@ citation: 'J. Ekstrand, C. Erickson, D. Hay, L. Hogben, and J. Roat. &quot;Note 
 ---
 The definition of the positive semidefinite zero forcing number for simple graphs is extended to multigraphs; as for simple graphs, this parameter bounds the maximum positive semidefinite nullity from above.
 
-[Download paper here](https://doi.org/10.13001/1081-3810.1506)
+[Download paper here](https://doi.org/10.13001/1081-3810.1506){:target="_blank"}
 
 Recommended citation: J. Ekstrand, C. Erickson, D. Hay, L. Hogben, and J. Roat. "Note on positive semidefinite maximum nullity and positive semidefinite zero forcing number of partial 2-trees." <i>Electron. J. Linear Algebra</i> <b>23</b> (2012), 79—87.
