@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Minneapolis Fire Calls"
+excerpt: "Streamlit ![Streamlit icon](https://docs.streamlit.io/logo.svg) app showing locations of confirmed fires responded to by the Minneapolis Fire Department"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+# [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/cerickson30/minneapolis_fire_calls/main)
+
+# Minneapolis Fire Calls
+
+Interactive [Streamlit](https://streamlit.io/) ![Streamlit icon](https://docs.streamlit.io/logo.svg) app created by [Craig Erickson](https://cerickson30.github.io) to show locations of confirmed fires responded to by the Minneapolis Fire Department since January 1, 2012. Also shows the number of confirmed fire calls by fire district, fire station, and neighborhood. The data used in this app was downloaded from [Open Minneapolis](https://opendata.minneapolismn.gov/).
