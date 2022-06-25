@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Resume pdf](https://cerickson30.github.io/files/craigerickson-resume.pdf){:target="_blank"}
+
 [Full CV pdf](https://cerickson30.github.io/files/cericksonCV.pdf){:target="_blank"}
 
 Education
