@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Craig Erickson"
 title_separator          : "-"
 name                     : &name "Dr. Craig Erickson"
-description              : &description "Visiting Lecturer at Hamline University"
+description              : &description "Research Scientist at Amazon Alexa AI"
 url                      : https://cerickson30.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cerickson30/cerickson30.github.io"
@@ -84,7 +84,7 @@ author:
   avatar           : "cerickson_headshot-2020.jpg"
   bio              : "Mathematician and Data Scientist"
   location         : "Saint Paul, MN"
-  employer         : "Hamline University"
+  employer         : "Amazon Alexa AI"
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=0XaMRnQAAAAJ
   email            :
